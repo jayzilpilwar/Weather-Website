@@ -1,0 +1,2 @@
+C:\Users\Jay Zilpilwar\source\repos\web-server\web-server\obj\Release\web-server.njsproj.CoreCompileInputs.cache
+C:\Users\Jay Zilpilwar\source\repos\web-server\web-server\bin\Microsoft.NodejsTools.WebRole.dll
